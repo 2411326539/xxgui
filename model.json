@@ -1,55 +1,55 @@
 {
 	"models": [
 		{
-			"modelName": "三讲洴�_DWan-FP32-256",
+			"modelName": "三角洲Dawan-FP32-256",
 			"precision": "FP32",
 			"classNames": [
-				"敌人質专",
-				"敌仪顴部",
-				"队台",
-				"人湖",
-				"吒地",
-				"健亮",
-				"偵亮您顴部"
+				"敌人身体",
+				"敌人头部",
+				"队友",
+				"人机",
+				"倒地",
+				"假人",
+				"假人头部"
 			  ],
 			"size": 256,
 			"gameType": "FPS",
-			"iconUrl": "https://raw.githubusercontent.com/XXWUI/xxgui.github.io/refs/heads/main/icon/%E4%B8%89%E8%92%A6%E6%B4%9B.png",
-			"downloadUrl": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/model/%E4%B8%89%E8%92%A6%E6%B4%9BDawan-FP32-256.tflite"
+			"iconUrl": "https://raw.githubusercontent.com/2411326539/xxgui/refs/heads/main/icon/%E4%B8%89%E8%A7%92%E6%B4%B2.png",
+			"downloadUrl": "https://raw.githubusercontent.com/2411326539/xxgui/refs/heads/main/model/%E4%B8%89%E8%A7%92%E6%B4%B2Dawan-FP32-256.tflite"
 		},{
-			"modelName": "三讲洴坚.敌丑",
+			"modelName": "三角洲-敌我",
 			"precision": "INT8",
 			"classNames": [
-				"全苫",
-				"場叨",
-				"不知逓"
+				"全身",
+				"头部",
+				"不知道"
 			],
 			"size": 256,
 			"gameType": "FPS",
-			"iconUrl": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/icon/%E4%B8%89%E8%92%A6%E6%B4%9B.png",
-			"downloadUrl": "https://raw.githubusercontent.com/XXWUI/xxgui.github.io/refs/heads/main/model/%E4%B9%89%E8%92%A6%E6%B4%9B.tflite"
+			"iconUrl": "https://raw.githubusercontent.com/2411326539/xxgui/refs/heads/main/icon/%E4%B8%89%E8%A7%92%E6%B4%B2.png",
+			"downloadUrl": "https://raw.githubusercontent.com/2411326539/xxgui/refs/heads/main/model/%E4%B8%89%E8%A7%92%E6%B4%B2.tflite"
 		},{
-			"modelName": "罗_256_v26s",
+			"modelName": "瓦_256_v26s",
 			"precision": "INT8",
 			"classNames": [
-				"全苫",
-				"場叨"
+				"全身",
+				"头部"
 			],
 			"size": 256,
 			"gameType": "FPS",
-			"iconUrl": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/icon/%E6%97%A0%E5%91%A7%E5%A1%B2.png",
-			"downloadUrl": "https://raw.githubusercontent.com/XXWUI/xxgui.github.io/refs/heads/main/model/%E7%93%A6_256_v26s.tflite"
+			"iconUrl": "https://raw.githubusercontent.com/2411326539/xxgui/refs/heads/main/icon/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6.png",
+			"downloadUrl": "https://raw.githubusercontent.com/2411326539/xxgui/refs/heads/main/model/%E7%93%A6_256_v26s.tflite"
 		},{
-			"modelName": "罗-渐艰-256",
+			"modelName": "瓦-黄色-256",
 			"precision": "FP32",
 			"classNames": [
-				"全苫",
-				"場叨"
+				"全身",
+				"头部"
 			],
 			"size": 256,
 			"gameType": "FPS",
-			"iconUrl": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/icon/%E7%97%A0%E9%91%A7%E5%A1%B2.png",
-			"downloadUrl": "https://raw.githubusercontent.com/XXGUI/xxgui.github.io/refs/heads/main/model/%E7%93%A6-%E9%EB%84%IE8%89-256.ncnn"
+			"iconUrl": "https://raw.githubusercontent.com/2411326539/xxgui/refs/heads/main/icon/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6.png",
+			"downloadUrl": "https://raw.githubusercontent.com/2411326539/xxgui/refs/heads/main/model/%E7%93%A6-%E9%BB%84%E8%89%B2-256.ncnn"
 		}
 	]
 }
